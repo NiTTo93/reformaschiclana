@@ -1329,8 +1329,8 @@ textarea.fld-input {
     padding: 0;
   }
   .menu-links a {
-    padding: 8px 14px;
-    font-size: .88rem;
+    padding: 8px 10px;
+    font-size: .82rem;
     border-bottom: none;
     border-radius: var(--radius-sm);
   }
