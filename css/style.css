@@ -1333,6 +1333,7 @@ textarea.fld-input {
     font-size: .82rem;
     border-bottom: none;
     border-radius: var(--radius-sm);
+    white-space: nowrap;
   }
   .menu-links a:hover,
   .menu-links a.current {
