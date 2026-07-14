@@ -2,86 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://reformaschiclana.es/</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://reformaschiclana.es/contacto.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://reformaschiclana.es/sobre-nosotros.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://reformaschiclana.es/reformas-integrales.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reforma-cocina.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reforma-bano.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://reformaschiclana.es/obra-nueva.html</loc>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/construccion-piscinas.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://reformaschiclana.es/reforma-terraza-porche.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/pintura-decoracion.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://reformaschiclana.es/reforma-terraza-porche.html</loc>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reformas-chiclana-centro.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://reformaschiclana.es/reformas-novo-sancti-petri.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reformas-la-barrosa.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://reformaschiclana.es/reformas-novo-sancti-petri.html</loc>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reformas-pago-del-humo.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://reformaschiclana.es/reformas-campano.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://reformaschiclana.es/contacto.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://reformaschiclana.es/sobre-nosotros.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.6</priority>
   </url>
 </urlset>
